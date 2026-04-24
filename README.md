@@ -1,7 +1,7 @@
 ## Hi, I'm Anna
 
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red)](mailto:opalevaanna4809@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue)](https://t.me/annanas_kto)
+[![Telegram](https://img.shields.io/badge/Telegram-@annanas_kto-blue)](https://t.me/annanas_kto)
 
 ### About me
 
