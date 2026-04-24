@@ -1,33 +1,41 @@
-## Hi, I'm Anna
+<h1 align="center">
+Hi, I'm Anna :v:
+</h1>
 
-[![Gmail](https://img.shields.io/badge/Email-Gmail-red)](mailto:opalevaanna4809@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@annanas_kto-blue)](https://t.me/annanas_kto)
+<div align="center" id="badges">
+  <a href="mailto:opalevaanna4809@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+    <a href="https://t.me/annanas_kto">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+</div>
 
-### About me
+## :bust_in_silhouette: About me
 
 * C developer focused on system programming.
 
 * Currently learning Python.
 
-### Tech Stack
+## :hammer_and_wrench: Tech Stack
 
-#### Languages
+### Languages
 
 ![C](https://img.shields.io/badge/c-blue)
-![Python](https://img.shields.io/badge/python-yellow)
+![Python](https://img.shields.io/badge/python-blue)
 
-#### Tools
+### Tools
 
-![Linux](https://img.shields.io/badge/linux)
-![Docker](https://img.shields.io/badge/docker)
-![Git](https://img.shields.io/badge/git)
-![Bash](https://img.shields.io/badge/bash)
-![PostgreSQL](https://img.shields.io/badge/postgresql)
+![Linux](https://img.shields.io/badge/linux-blue)
+![Docker](https://img.shields.io/badge/docker-blue)
+![Git](https://img.shields.io/badge/git-blue)
+![Bash](https://img.shields.io/badge/bash-blue)
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue)
 
-### Projects
+## :file_folder: Projects
 
-| Project name | Description | Stack |
---------------------------------------
+| Project name | Description | Tech |
+|--------------|-------------|------|
 | SimpleBashUtils | Development of Bash text utilities: cat, grep. | C |
 | Matrix | Implementation of the matrix.h library. | C |
 | String_Sprinf | Implementation of the sprintf func from the string.h library. | C |
