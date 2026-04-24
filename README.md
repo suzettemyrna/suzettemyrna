@@ -13,24 +13,27 @@ Hi, I'm Anna :v:
 
 ## :bust_in_silhouette: About me
 
-* C developer focused on system programming.
-
 * Currently learning Python.
 
 ## :hammer_and_wrench: Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/c-blue)
-![Python](https://img.shields.io/badge/python-blue)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
 
 ### Tools
 
-![Linux](https://img.shields.io/badge/linux-blue)
-![Docker](https://img.shields.io/badge/docker-blue)
-![Git](https://img.shields.io/badge/git-blue)
-![Bash](https://img.shields.io/badge/bash-blue)
-![PostgreSQL](https://img.shields.io/badge/postgresql-blue)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</div>
 
 ## :file_folder: Projects
 
