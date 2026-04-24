@@ -27,6 +27,7 @@
 ### Projects
 
 | Project name | Description | Stack |
+--------------------------------------
 | SimpleBashUtils | Development of Bash text utilities: cat, grep. | C |
 | Matrix | Implementation of the matrix.h library. | C |
 | String_Sprinf | Implementation of the sprintf func from the string.h library. | C |
