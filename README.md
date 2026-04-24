@@ -13,8 +13,8 @@
 
 #### Languages
 
-![C](https://img.shields.io/badge/c)
-![Python](https://img.shields.io/badge/python)
+![C](https://img.shields.io/badge/c-blue)
+![Python](https://img.shields.io/badge/python-yellow)
 
 #### Tools
 
