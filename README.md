@@ -2,6 +2,10 @@
 Hi, I'm Anna :v:
 </h1>
 
+<div align="center">
+
+</div>
+
 <div align="center" id="badges">
   <a href="mailto:opalevaanna4809@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -39,7 +43,6 @@ Hi, I'm Anna :v:
 
 | Project name | Description | Tech |
 |--------------|-------------|------|
-| SimpleBashUtils | Development of Bash text utilities: cat, grep. | C |
 | Matrix | Implementation of the matrix.h library. | C |
 | String_Sprinf | Implementation of the sprintf func from the string.h library. | C |
 | BrickGame_Tetris | Implementation of the Tetris game using a structural approach. | C |
