@@ -3,7 +3,7 @@ Hi, I'm Anna :v:
 </h1>
 
 <div align="center">
-
+  <img src="coffee.gif" width="125px"/>
 </div>
 
 <div align="center" id="badges">
