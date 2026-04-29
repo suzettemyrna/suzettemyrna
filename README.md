@@ -43,8 +43,8 @@ Hi, I'm Anna :v:
 
 | Project name | Description | Tech |
 |--------------|-------------|------|
+| SimpleBashUtils | Implementation of *cat* and *grep* utils. | C |
 | [Matrix](https://github.com/suzettemyrna/matrix-c) | Implementation of the matrix.h library. | C |
-| String_Sprinf | Implementation of the sprintf func from the string.h library. | C |
 | BrickGame_Tetris | Implementation of the Tetris game using a structural approach. | C |
 | ExamSimulation | Simulation of exam process using threading | Python |
 | Downloader | Asynchronous image downloader using asyncio and aiohttp | Python |
