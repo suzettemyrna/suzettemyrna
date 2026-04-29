@@ -43,12 +43,12 @@ Hi, I'm Anna :v:
 
 | Project name | Description | Tech |
 |--------------|-------------|------|
-| SimpleBashUtils | Implementation of *cat* and *grep* utils. | C |
+| [SimpleBashUtils](https://github.com/suzettemyrna/simplebashutils-c) | Implementation of *cat* and *grep* utils. | C |
 | [Matrix](https://github.com/suzettemyrna/matrix-c) | Implementation of the matrix.h library. | C |
-| BrickGame_Tetris | Implementation of the Tetris game using a structural approach. | C |
-| ExamSimulation | Simulation of exam process using threading | Python |
-| Downloader | Asynchronous image downloader using asyncio and aiohttp | Python |
-| Linux Network | Linux networks configuration on virtual machines. | Linux |
-| Docker | Developing a simple docker image for a server. | Docker |
-| CICD-Pipeline | Development of a simple CI/CD for the *SimpleBashUtils* project. Building, testing, deployment. | Linux, Docker |
-| LinuxMonitoring | Scripts for monitoring and research of the system status. | Linux, Bash |
+| [Tetris](https://github.com/suzettemyrna/tetris-c) | Implementation of the Tetris game using a structural approach. | C |
+| [ExamSimulation](https://github.com/suzettemyrna/examsimulation-py) | Simulation of exam process using threading | Python |
+| [Downloader](https://github.com/suzettemyrna/downloader-py) | Asynchronous image downloader using asyncio and aiohttp | Python |
+| [Linux Network](https://github.com/suzettemyrna/linux-network) | Linux networks configuration on virtual machines. | Linux |
+| [Docker](https://github.com/suzettemyrna/docker) | Developing a simple docker image for a server. | Docker |
+| [CICD-Pipeline](https://github.com/suzettemyrna/cicd-pipeline) | Development of a simple CI/CD for the *SimpleBashUtils* project. Building, testing, deployment. | Linux, Docker |
+| [LinuxMonitoring](https://github.com/suzettemyrna/linux-monitoring) | Scripts for monitoring and research of the system status. | Linux, Bash |
