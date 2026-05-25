@@ -47,8 +47,3 @@ Hi, I'm Anna :v:
 | [Docker](https://github.com/suzettemyrna/docker) | Developing a simple docker image for a server. | Docker |
 | [CICD-Pipeline](https://github.com/suzettemyrna/cicd-pipeline) | Development of a simple CI/CD for the *SimpleBashUtils* project. Building, testing, deployment. | Linux, Docker |
 | [LinuxMonitoring](https://github.com/suzettemyrna/linux-monitoring) | Scripts for monitoring and research of the system status. | Linux, Bash |
-
-
-<div align="center">
-  <img src="coffee.gif" width="125px"/>
-</div>
