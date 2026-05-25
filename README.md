@@ -2,10 +2,6 @@
 Hi, I'm Anna :v:
 </h1>
 
-<div align="center">
-  <img src="coffee.gif" width="125px"/>
-</div>
-
 <div align="center" id="badges">
   <a href="mailto:opalevaanna4809@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -43,7 +39,6 @@ Hi, I'm Anna :v:
 
 | Project name | Description | Tech |
 |--------------|-------------|------|
-| [SimpleBashUtils](https://github.com/suzettemyrna/simplebashutils-c) | Implementation of *cat* and *grep* utils. | C |
 | [Matrix](https://github.com/suzettemyrna/matrix-c) | Implementation of the matrix.h library. | C |
 | [Tetris](https://github.com/suzettemyrna/tetris-c) | Implementation of the Tetris game using a structural approach. | C |
 | [ExamSimulation](https://github.com/suzettemyrna/examsimulation-py) | Simulation of exam process using threading | Python |
@@ -52,3 +47,8 @@ Hi, I'm Anna :v:
 | [Docker](https://github.com/suzettemyrna/docker) | Developing a simple docker image for a server. | Docker |
 | [CICD-Pipeline](https://github.com/suzettemyrna/cicd-pipeline) | Development of a simple CI/CD for the *SimpleBashUtils* project. Building, testing, deployment. | Linux, Docker |
 | [LinuxMonitoring](https://github.com/suzettemyrna/linux-monitoring) | Scripts for monitoring and research of the system status. | Linux, Bash |
+
+
+<div align="center">
+  <img src="coffee.gif" width="125px"/>
+</div>
