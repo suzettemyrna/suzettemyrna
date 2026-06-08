@@ -44,6 +44,6 @@ Hi, I'm Anna :v:
 | [ExamSimulation](https://github.com/suzettemyrna/examsimulation-py) | Simulation of exam process using threading | Python |
 | [Downloader](https://github.com/suzettemyrna/downloader-py) | Asynchronous image downloader using asyncio and aiohttp | Python |
 | [Linux Network](https://github.com/suzettemyrna/linux-network) | Linux networks configuration on virtual machines. | Linux |
-| [Docker](https://github.com/suzettemyrna/docker) | Developing a simple docker image for a server. | Docker |
+| [Simple Docker](https://github.com/suzettemyrna/docker) | Developing a simple docker image for a server. | Docker |
 | [CICD-Pipeline](https://github.com/suzettemyrna/cicd-pipeline) | Development of a simple CI/CD for the *SimpleBashUtils* project. Building, testing, deployment. | Linux, Docker |
-| [LinuxMonitoring](https://github.com/suzettemyrna/linux-monitoring) | Scripts for monitoring and research of the system status. | Linux, Bash |
+| [Linux Monitoring](https://github.com/suzettemyrna/linux-monitoring) | Scripts for monitoring and research of the system status. | Linux, Bash |
